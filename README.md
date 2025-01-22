@@ -67,7 +67,7 @@ To run this project locally, follow these steps:
 ## Results
 
 - **Validation Accuracy:** 92%
-- **Sample Predictions:** https://github.com/AniketLokhande801/Diabetic_Retinopaty_classifcation/blob/main/results.png
+- **Sample Predictions:** https://github.com/Nik9296/Diabetic_Retinopaty_classifcation/blob/main/results.png
 
 ## Contributing
 
@@ -75,4 +75,4 @@ Contributions are welcome! Please open an issue or submit a pull request if you 
 
 ## Contact
 
-For any inquiries, please contact Aniket Somnath Lokhande at aniketlokhande3654@gmail.com.
+For any inquiries, please contact Nikhil Vijay Divekar at nikhildivekar041@gmail.com.
