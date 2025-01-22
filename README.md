@@ -67,7 +67,7 @@ To run this project locally, follow these steps:
 ## Results
 
 - **Validation Accuracy:** 92%
-- **Sample Predictions:** https://github.com/Nik9296/Diabetic_Retinopaty_classifcation/blob/main/results.png
+- **Sample Predictions:** https://github.com/Nik9296/Diabetic_Retinopaty_Classifcation-main/blob/main/results.png
 
 ## Contributing
 
