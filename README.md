@@ -37,7 +37,7 @@ To run this project locally, follow these steps:
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/AniketLokhande801/Diabetic_Retinopathy_classification.git
+    git clone https://github.com/Nik9296/Diabetic_Retinopaty_Classifcation-main
     cd Diabetic_Retinopathy_classification
     ```
 
